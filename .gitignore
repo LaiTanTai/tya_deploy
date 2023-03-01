@@ -1,0 +1,5 @@
+// liệt kê các file sẽ được git bỏ qua 
+
+/node_modules
+/dist
+.parcel-caches
